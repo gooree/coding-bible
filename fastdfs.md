@@ -1,7 +1,7 @@
 #FastDFS
 
 ## 安装FastDFS
-1. 到https://github.com/happyfish100下载libfastcommon和fastdfs最新代码
+1. 到[官方站点](https://github.com/happyfish100)下载libfastcommon和fastdfs最新代码
 2. make && make install（注意先安装libfastcommon，然后安装fastdfs）
 
 ## 修改配置文件
