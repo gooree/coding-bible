@@ -1,5 +1,4 @@
 #FastDFS
----
 
 ## 安装FastDFS
 1. 到https://github.com/happyfish100下载libfastcommon和fastdfs最新代码

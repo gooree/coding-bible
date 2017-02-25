@@ -1,5 +1,4 @@
 #Apache Kafka
----
 
 # Start kafka server
 kafka-server-start.sh /etc/kafka/server.properties
