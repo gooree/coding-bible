@@ -14,7 +14,6 @@ activemq stop
 ## Web Console
 [管理控制台](http://127.0.0.1:8161/admin/)
 
-Login:admin
-Password:admin
+登录用户名:admin
 
-
+登录密码:admin
