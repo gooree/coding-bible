@@ -12,7 +12,7 @@
 ### tracker.conf
 1. base_path
 
-### cliend.conf
+### client.conf
 1. base_path
 2. tracker_server 
 
