@@ -31,5 +31,8 @@
 1. /usr/local/bin/restart.sh /usr/local/bin/fdfs_trackered
 2. /usr/local/bin/restart.sh /usr/local/bin/fdfs_storaged
 
+## 注意
+storage.conf和client.conf中的tracker_server地址不能使用localhost或127.0.0.1
+
 
 
